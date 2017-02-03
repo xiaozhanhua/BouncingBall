@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">跳跃的小球</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about1">\t\t游戏中玩家必须控制一个在半空中跳跃的小球，让小球不要跌落于水平地面，
+        并跨越由各种不同长度所组成的墙障碍。每次跨越一堵墙，分数就累加1。</string>
+    <string name="about2">\t\t游戏操作简单，只需触摸点击屏幕就可以实现小球跳跃。点击次数越多，小球跳跃就越高。</string>
+
+</resources>
