@@ -2,7 +2,7 @@
 
 >这是大三第一学期末做的仿像素鸟的游戏项目，基于SurfaceView游戏框架
 
-###下面看演示效果截图  
+### 下面看演示效果截图  
 
 ![](http://okr1a8qew.bkt.clouddn.com/BouncingBall/1.%E9%85%8D%E7%BD%AE%E7%95%8C%E9%9D%A2.jpg)
 
